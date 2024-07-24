@@ -17,7 +17,7 @@
 
 ### :hammer_and_wrench: When I code, I rely on:
 <div>
-  <img alt="php" src="https://img.shields.io/badge/-php-777bb3?style=flat-square&logo=php&logoColor=white" />
+  <img alt="php" src="https://img.shields.io/badge/-PHP_5.4_--_8.3-777bb3?style=flat-square&logo=php&logoColor=white" />
   <img alt="symfony" src="https://img.shields.io/badge/-Symfony_2.8_--_6.4-black?style=flat-square&logo=symfony&logoColor=white" />
   <img alt="Composer" src="https://img.shields.io/badge/-Composer-6F4F28?style=flat-square&logo=composer&logoColor=white" />
   <img alt="PHPUnit" src="https://img.shields.io/badge/-PHPUnit-black?style=flat-square&logo=phpunit&logoColor=white" />
