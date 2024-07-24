@@ -14,6 +14,10 @@
   [![Linkedin Badge](https://img.shields.io/badge/Anatoly_Melnikov-2CA5E0?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anatoliy-melnikov/)
   [![Telegram Badge](https://img.shields.io/badge/aeliot-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/aetoliy)
 
+---
+
+### 🔥 My stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aeliot-Tm)](https://git.io/streak-stats)
 
 <!--
 **Aeliot-Tm/Aeliot-Tm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
