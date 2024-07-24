@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Profile Veiw Stats](https://komarev.com/ghpvc/?username=Aeliot-Tm&color=fb8c00)
+
 ### About me:
 - :telescope: I’m working as a Team Lead and Senior Software Engineer in FinTech project.
 - 💪 I'm experiensed in developing of:
@@ -16,6 +18,7 @@
 ---
 
 ### :hammer_and_wrench: When I code, I rely on:
+
 <div>
   <img alt="php" src="https://img.shields.io/badge/-PHP_5.4_--_8.3-777bb3?style=flat-square&logo=php&logoColor=white" />
   <img alt="symfony" src="https://img.shields.io/badge/-Symfony_2.8_--_6.4-black?style=flat-square&logo=symfony&logoColor=white" />
