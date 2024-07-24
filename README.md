@@ -9,7 +9,7 @@
   - 💢 APIs for data transfering
 - :zap: In my free time, I contribute to backend project.
 - ❤ My latest passion is developing tools to automate code quality control.
-- :seedling: I'm almost a dinosaur. 14+ years in development 😏
+- :seedling: I'm almost a dinosaur. 14+ years in development 😏. Nevertheless, I keep my finger on the pulse of new technologies.
 - :mailbox: How to reach me:
   [![Linkedin Badge](https://img.shields.io/badge/Anatoly_Melnikov-2CA5E0?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anatoliy-melnikov/)
   [![Telegram Badge](https://img.shields.io/badge/aeliot-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/aetoliy)
