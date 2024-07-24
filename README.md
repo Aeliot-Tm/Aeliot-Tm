@@ -6,7 +6,7 @@
 - 💪 I'm experiensed in developing of:
   - 💰 FinTec projects 
   - 🏫 LMS (learning management systems)
-  - 💢 APIs for data transfering
+  - 💢 API for data transfer
 - :zap: In my free time, I contribute to backend project.
 - ❤ My latest passion is developing tools to automate code quality control.
 - :seedling: I'm almost a dinosaur. 14+ years in development 😏. Nevertheless, I keep my finger on the pulse of new technologies.
