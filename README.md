@@ -1,11 +1,19 @@
 ## Hi there 👋
 
-I'm Anatoly Melnikov. 
-I'm almost a dinosaur. 14+ years in development 😏 
 
-For most of this time I was a PHP developer. I'm experiensed in developing of FinTec projects, LMS (learning management systems) and APIs for data synchronization. My latest passion is developing tools to automate code quality control.
+### About me:
+- :telescope: I’m working as a Team Lead and Senior Software Engineer in FinTech project.
+- 💪 I'm experiensed in developing of:
+  - 💰 FinTec projects 
+  - 🏫 LMS (learning management systems)
+  - 💢 APIs for data transfering
+- :zap: In my free time, I contribute to backend project.
+- ❤ My latest passion is developing tools to automate code quality control.
+- :seedling: I'm almost a dinosaur. 14+ years in development 😏
+- :mailbox: How to reach me:
+  [![Linkedin Badge](https://img.shields.io/badge/Anatoly_Melnikov-2CA5E0?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anatoliy-melnikov/)
+  [![Telegram Badge](https://img.shields.io/badge/aeliot-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/aetoliy)
 
-According to my superiors and subordinates, I am an excellent team leader 😊
 
 <!--
 **Aeliot-Tm/Aeliot-Tm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
