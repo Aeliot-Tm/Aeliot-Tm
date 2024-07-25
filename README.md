@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Profile Veiw Stats](https://komarev.com/ghpvc/?username=Aeliot-Tm&color=999999&text_color=999999&label_color=999999)
-
 ### About me:
 - :telescope: I’m working as a Team Lead and Senior Software Engineer in FinTech project.
 - 💪 I'm experiensed in developing of:
@@ -55,11 +53,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aeliot-Tm)](https://github.com/anuraghazra/github-readme-stats)
 
+![Profile Veiw Stats](https://komarev.com/ghpvc/?username=Aeliot-Tm&color=999999&text_color=999999&label_color=999999)
+
 ---
 
 ### :writing_hand: Blog Posts:
 
 - Follow me on [habr.com](https://habr.com/ru/users/Aeliot/publications/articles/)
+
 
 <!--
 **Aeliot-Tm/Aeliot-Tm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
