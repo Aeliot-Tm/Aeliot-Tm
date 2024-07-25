@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Profile Veiw Stats](https://komarev.com/ghpvc/?username=Aeliot-Tm&color=fb8c00)
+![Profile Veiw Stats](https://komarev.com/ghpvc/?username=Aeliot-Tm&color=999999&text_color=999999&label_color=999999)
 
 ### About me:
 - :telescope: I’m working as a Team Lead and Senior Software Engineer in FinTech project.
