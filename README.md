@@ -53,7 +53,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aeliot-Tm)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile Veiw Stats](https://komarev.com/ghpvc/?username=Aeliot-Tm&color=999999&text_color=999999&label_color=999999)
 
 ---
 
