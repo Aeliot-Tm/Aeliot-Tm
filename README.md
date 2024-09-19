@@ -56,7 +56,7 @@
 
 ---
 
-### :writing_hand: Blog Posts:
+### :writing_hand: Blog Posts and Articles:
 
 - Follow me on [habr.com](https://habr.com/ru/users/Aeliot/publications/articles/)
 
