@@ -22,9 +22,10 @@
 
 ### :hammer_and_wrench: When I code, I rely on:
 
-<div>
+
 [![PHP](https://img.shields.io/badge/-PHP-777bb3?style=flat-square&logo=php&logoColor=white)](https://www.php.net)
 [![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=symfony&logoColor=white)](https://symfony.com)
+<div>
   <img alt="Composer" src="https://img.shields.io/badge/-Composer-6F4F28?style=flat-square&logo=composer&logoColor=white" />
   <img alt="PHPUnit" src="https://img.shields.io/badge/-PHPUnit-black?style=flat-square&logo=phpunit&logoColor=white" />
   <img alt="PHPStan" src="https://img.shields.io/badge/-PHPStan-black?style=flat-square&logo=phpstan&logoColor=white" />
