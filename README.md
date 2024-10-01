@@ -22,6 +22,7 @@
 
 ### :hammer_and_wrench: When I code, I rely on:
 
+[![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?style=flat-square&logo=phpstorm&logoColor=white)](https://www.jetbrains.com/phpstorm/)
 [![PHP](https://img.shields.io/badge/-PHP-777bb3?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 [![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=symfony&logoColor=white)](https://symfony.com/)
 [![Composer](https://img.shields.io/badge/-Composer-6F4F28?style=flat-square&logo=composer&logoColor=white)](https://getcomposer.org/)
@@ -34,7 +35,7 @@
 [![GitLab CI](https://img.shields.io/badge/-GitLab_CI-orange?style=flat-square&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
 [![Github Actions](https://img.shields.io/badge/-Github_Actions-black?style=flat-square&logo=github&logoColor=white)](https://github.com/features/actions)
 [![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)](https://docker.com/)
-[![Bash](https://img.shields.io/badge/-Bash-3D642D?style=flat-square&logo=bash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
 ---
 
