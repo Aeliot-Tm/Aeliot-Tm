@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-
 ![](https://hit.yhype.me/github/profile?user_id=8513062)
 ![Profile Veiw Stats invisible](https://komarev.com/ghpvc/?username=Aeliot-Tm&style=pixel)
 <!-- ![Profile Veiw Stats visible ](https://komarev.com/ghpvc/?username=Aeliot-Tm&color=999999&text_color=999999&label_color=999999) -->
@@ -54,7 +53,7 @@
 
 ### :writing_hand: Blog Posts and Articles:
 
-- Follow me on [habr.com](https://habr.com/ru/users/Aeliot/publications/articles/)
+- My articles on [habr.com](https://habr.com/ru/users/Aeliot/publications/articles/)
 
 <!--
 **Aeliot-Tm/Aeliot-Tm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
