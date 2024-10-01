@@ -30,7 +30,7 @@
 [![PHPUnit](https://img.shields.io/badge/-PHPUnit-black?style=flat-square&logo=phpunit&logoColor=white)](https://phpunit.de/)
 [![PHPStan](https://img.shields.io/badge/-PHPStan-black?style=flat-square&logo=phpstan&logoColor=white)](https://phpstan.org/)
 [![PHP CS Fixer](https://img.shields.io/badge/-PHP_CS_Fixer-black?style=flat-square&logo=phpcsfixer&logoColor=white)](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)
-[![MySQL](https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 [![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat-squar&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
