@@ -25,6 +25,7 @@
 [![PHP](https://img.shields.io/badge/-PHP-777bb3?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 [![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=symfony&logoColor=white)](https://symfony.com/)
 [![Composer](https://img.shields.io/badge/-Composer-6F4F28?style=flat-square&logo=composer&logoColor=white)](https://getcomposer.org/)
+[![PHIVE](https://img.shields.io/badge/-PHIVE-6F4F28?style=flat-square&logoColor=white)](https://phar.io/)
 [![PHPUnit](https://img.shields.io/badge/-PHPUnit-black?style=flat-square&logo=phpunit&logoColor=white)](https://phpunit.de/)
 [![PHPStan](https://img.shields.io/badge/-PHPStan-black?style=flat-square&logo=phpstan&logoColor=white)](https://phpstan.org/)
 [![PHP CS Fixer](https://img.shields.io/badge/-PHP_CS_Fixer-black?style=flat-square&logo=phpcsfixer&logoColor=white)](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)
