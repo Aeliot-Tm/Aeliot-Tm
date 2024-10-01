@@ -34,9 +34,13 @@
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitLab CI](https://img.shields.io/badge/-GitLab_CI-orange?style=flat-square&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
-[![Github Actions](https://img.shields.io/badge/-Github_Actions-black?style=flat-square&logo=github&logoColor=white)](https://github.com/features/actions)
+[![Github Actions](https://img.shields.io/badge/-Github_Actions-black?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)](https://docker.com/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-49728B?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 [![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[![REST API](https://img.shields.io/badge/-REST_API-E10098?style=flat-square&logo=rest&logoColor=white)](https://en.wikipedia.org/wiki/REST)
+[![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)
+[![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=flat-square&logo=Apollo%20GraphQL&logoColor=white)](https://www.apollographql.com/)
 
 ---
 
