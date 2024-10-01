@@ -22,21 +22,18 @@
 
 ### :hammer_and_wrench: When I code, I rely on:
 
-
-[![PHP](https://img.shields.io/badge/-PHP-777bb3?style=flat-square&logo=php&logoColor=white)](https://www.php.net)
-[![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=symfony&logoColor=white)](https://symfony.com)
-<div>
-  <img alt="Composer" src="https://img.shields.io/badge/-Composer-6F4F28?style=flat-square&logo=composer&logoColor=white" />
-  <img alt="PHPUnit" src="https://img.shields.io/badge/-PHPUnit-black?style=flat-square&logo=phpunit&logoColor=white" />
-  <img alt="PHPStan" src="https://img.shields.io/badge/-PHPStan-black?style=flat-square&logo=phpstan&logoColor=white" />
-  <img alt="PHP CS Fixer" src="https://img.shields.io/badge/-PHP_CS_Fixer-black?style=flat-square&logo=phpcsfixer&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=MySQL&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitLab CI" src="https://img.shields.io/badge/-GitLab_CI-orange?style=flat-square&logo=gitlab&logoColor=white" />
-  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-black?style=flat-square&logo=github&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Bash" src="https://img.shields.io/badge/-Bash-3D642D?style=flat-square&logo=bash&logoColor=white" />
-</div>
+[![PHP](https://img.shields.io/badge/-PHP-777bb3?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
+[![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=symfony&logoColor=white)](https://symfony.com/)
+[![Composer](https://img.shields.io/badge/-Composer-6F4F28?style=flat-square&logo=composer&logoColor=white)](https://getcomposer.org/)
+[![PHPUnit](https://img.shields.io/badge/-PHPUnit-black?style=flat-square&logo=phpunit&logoColor=white)](https://phpunit.de/)
+[![PHPStan](https://img.shields.io/badge/-PHPStan-black?style=flat-square&logo=phpstan&logoColor=white)](https://phpstan.org/)
+[![PHP CS Fixer](https://img.shields.io/badge/-PHP_CS_Fixer-black?style=flat-square&logo=phpcsfixer&logoColor=white)](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)
+[![MySQL](https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitLab CI](https://img.shields.io/badge/-GitLab_CI-orange?style=flat-square&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
+[![Github Actions](https://img.shields.io/badge/-Github_Actions-black?style=flat-square&logo=github&logoColor=white)](https://github.com/features/actions)
+[![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)](https://docker.com/)
+[![Bash](https://img.shields.io/badge/-Bash-3D642D?style=flat-square&logo=bash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
 ---
 
