@@ -46,7 +46,7 @@
 
 ### 🔥 My stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aeliot-Tm)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aeliot-Tm)](https://git.io/streak-stats)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aeliot-tm&show_icons=true&text_bold=false&icon_color=fb8c00)](https://github.com/Aeliot-Tm)
 
